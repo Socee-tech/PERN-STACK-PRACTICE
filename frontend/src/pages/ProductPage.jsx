@@ -119,9 +119,9 @@ function ProductPage() {
               </div>
 
               {/* form actions */}
-              <div className="flex justify-between mt-8">
+              <div className="flex justify-between mt-8 mx-auto">
                 <button type="button" onClick={handleDelete} className="btn btn-error">
-                  <Trash2Icon className="size-4 mr-2" />
+                  <Trash2Icon className="size-4 mr-0.5" />
                   Delete Product
                 </button>
 
