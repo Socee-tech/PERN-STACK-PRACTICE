@@ -6,7 +6,7 @@ import { Toaster } from "react-hot-toast";
 
 import HomePage from "./pages/HomePage";
 import ProductPage from "./pages/ProductPage";
-import { useThemeStore } from "./store/UseThemeStore";
+import { useThemeStore } from "./store/useThemeStore";
 
 
 // after this project try to understand how things work like the technolgies used in this project and how to use them in your own projects. Also try to understand the code and how it works. This will help you in your future projects and also in your job interviews.
